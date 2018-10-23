@@ -11,3 +11,6 @@
 3. Busca llenguatges de programació del següent tipus:
   1. Llenguatges orientats a servidors.
   2. Llenguatges orientats a objectes.
+
+Llenguatge | Paradigma | Proposit Motivació | Compilat... Interpretat | Abstracció (baix...alt) | Any aparició | Any darerra versió | Concurrencia | Principal àrea d’aplicació | Descarrega (Url)
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
