@@ -18,3 +18,7 @@ Llenguatge | Paradigma | Proposit Motivació | Compilat... Interpretat | Abstrac
 **C** | Imperatiu/Estructurat | Sistemes Operatius | X | Alt Nivell | 1972 | 2000 | TOT | NO
 **C++** | Programació orientada a Objectes	Manipulació d’objectes | X | Alt Nivell | 1983 | 2017 | TOT | NO
 **C#** | Programació orientada a Objectes | Infraesrtuctura | X | Alt Nivell | 2000 | 2017 | TOT | NO
+**Cobol** | Imperatiu/Estructurat | Multiplataforma | - | Alt Nivell | 1959 | 2002 | TOT | NO
+**CoffeeScript** | MultiParadigma | Precompilador | X | Alt Nivell | 2009 | 2018 | JAVASCRIPT | NO
+**Ensamblador** | Traductor de llenguatges | - | Alt Nivell | - | - | - | - | NO
+**Fortran** | Procedimental | matemàtics, físcs | - | Alt Nivell | 1957 | 2003 | - | COMPUTACIÓ FÍSICA | NO
