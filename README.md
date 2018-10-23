@@ -30,3 +30,7 @@ Llenguatge | Paradigma | Proposit Motivació | Compilat... Interpretat | Abstrac
 **Javascript** | MultiParadigma | Ajudant, permet millorar l’interfície de l’usuari | X | Alt Nivell | 1995 | 2016 | - | - | NO
 **Kotlin** | Programació orientada a Objectes | Dissenyat per ser interpretat amb codi Java | - | - | 2012 | 1,2,71 | - | - | NO
 **MATLAB** | Analisi numeric | Manipular facilment matrius,dibuixos | - | - | - | 1984 | R2014a | - | - | NO
+**LISP** | Funcional,procedural,interpretat | - | X | - | 1958 | - | - | NO
+**Logo** | Funcional,educacional,Imperativo/Estructurado | Per a nens i joves | - | Alt nivell | 1967 | - | - | NO
+**Objective-C** | Programació orientada a Objectes | Per desenvolupar en els entorns UNIX o Windows | - | - | - | 1984 | - | - | NO
+**Pascal** | Imperatiu/Estructurat | Facilitar la programació | - | - | 1970 | 5,5 | - | - | NO
