@@ -26,3 +26,7 @@ Llenguatge | Paradigma | Proposit Motivació | Compilat... Interpretat | Abstrac
 **Go** | Imperatiu/Estructurat | Sistemes Operatius | X | Alt Nivell | 2009 | 2018 | - | GOOGLE | NO
 **Haskell** | Funcional | Multipropósit | - | Alt Nivell | 1990 | 2010 | - | MULTIPROPOSIT | NO
 **Html** | Imperatiu/Estructurat | Elaborar pàgines web | - | - | 1993 | 2007 | - | PAGINES WEB | NO
+**Java** | Programació orientada a Objectes | Executar a tot arreu | X | Alt Nivell | 1995 | 2014 | - | ORIENTAT A OBJECTES | NO
+**Javascript** | MultiParadigma | Ajudant, permet millorar l’interfície de l’usuari | X | Alt Nivell | 1995 | 2016 | - | - | NO
+**Kotlin** | Programació orientada a Objectes | Dissenyat per ser interpretat amb codi Java | - | - | 2012 | 1,2,71 | - | - | NO
+**MATLAB** | Analisi numeric | Manipular facilment matrius,dibuixos | - | - | - | 1984 | R2014a | - | - | NO
