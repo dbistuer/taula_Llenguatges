@@ -34,3 +34,7 @@ Llenguatge | Paradigma | Proposit Motivació | Compilat... Interpretat | Abstrac
 **Logo** | Funcional,educacional,Imperativo/Estructurado | Per a nens i joves | - | Alt nivell | 1967 | - | - | NO
 **Objective-C** | Programació orientada a Objectes | Per desenvolupar en els entorns UNIX o Windows | - | - | - | 1984 | - | - | NO
 **Pascal** | Imperatiu/Estructurat | Facilitar la programació | - | - | 1970 | 5,5 | - | - | NO
+**Perl** | MultiParadigma,procedural,orientat a objectes,imperatiu,interpretat | Inspirat en els llenguatges awk. | X | Alt Nivell | 1987 | 5,28 | - | - | NO
+**Postcript** | Imperatiu/Estructurat/Interpretat | Impresores | - | - | 1982 | 3 | - | - | NO
+**Prolog** | Lógic/declaratiu | Intel·ligència Artificial | - | - | - | 1972 | - | - | - | NO
+**Phyton** | MultiParadigma,orientat a objectes,dinàmic,funcional,script,imperatiu/funcional,interpretat,proposit general | Llegibilitat de codi | X | - | 1991 | 3,6,1 | - | - | NO
