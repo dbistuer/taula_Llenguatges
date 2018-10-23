@@ -22,3 +22,7 @@ Llenguatge | Paradigma | Proposit Motivació | Compilat... Interpretat | Abstrac
 **CoffeeScript** | MultiParadigma | Precompilador | X | Alt Nivell | 2009 | 2018 | JAVASCRIPT | NO
 **Ensamblador** | Traductor de llenguatges | - | Alt Nivell | - | - | - | - | NO
 **Fortran** | Procedimental | matemàtics, físcs | - | Alt Nivell | 1957 | 2003 | - | COMPUTACIÓ FÍSICA | NO
+**F#** | MultiParadigma | - | - | Alt Nivell | 2005 | 2017 | - | .NET | NO
+**Go** | Imperatiu/Estructurat | Sistemes Operatius | X | Alt Nivell | 2009 | 2018 | - | GOOGLE | NO
+**Haskell** | Funcional | Multipropósit | - | Alt Nivell | 1990 | 2010 | - | MULTIPROPOSIT | NO
+**Html** | Imperatiu/Estructurat | Elaborar pàgines web | - | - | 1993 | 2007 | - | PAGINES WEB | NO
