@@ -38,3 +38,7 @@ Llenguatge | Paradigma | Proposit Motivació | Compilat... Interpretat | Abstrac
 **Postcript** | Imperatiu/Estructurat/Interpretat | Impresores | - | - | 1982 | 3 | - | - | NO
 **Prolog** | Lógic/declaratiu | Intel·ligència Artificial | - | - | - | 1972 | - | - | - | NO
 **Phyton** | MultiParadigma,orientat a objectes,dinàmic,funcional,script,imperatiu/funcional,interpretat,proposit general | Llegibilitat de codi | X | - | 1991 | 3,6,1 | - | - | NO
+**PHP** | MultiParadigma,funcional,vectorial,imperatiu,procedural,orientat a objectes,script,interpretat | Generar pàgines web dinàmiques | X | - | 1995 | 7,2,9 | - | - | NO
+**R** | MultiParadigma,funcional,vectorial,imperatiu,procedural,orientat a objectes | Analisis Estadistic | - | - | 1993 | 3,4,4 | - | - | NO
+**Razor** | Imperatiu/Estructurat | Crear pàgines web dinàmiques | - | - | 2010 | 3,2,3 | - | - | NO
+**Scala** | MultiParadigma | Expressar patrons de manera concisa | - | - | 2003 | 2,12,7 | - | - | NO
