@@ -14,3 +14,7 @@
 
 Llenguatge | Paradigma | Proposit Motivació | Compilat... Interpretat | Abstracció (baix...alt) | Any aparició | Any darerra versió | Concurrencia | Principal àrea d’aplicació | Descarrega (Url)
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
+**BASIC** | Imperatiu/Estructurat | Va ser dissenyat per permetre als estudiants escriure programes emplrant terminals | X | Alt Nivell | 1964 | 1990 | TOT | NO
+**C** | Imperatiu/Estructurat | Sistemes Operatius | X | Alt Nivell | 1972 | 2000 | TOT | NO
+**C++** | Programació orientada a Objectes	Manipulació d’objectes | X | Alt Nivell | 1983 | 2017 | TOT | NO
+**C#** | Programació orientada a Objectes | Infraesrtuctura | X | Alt Nivell | 2000 | 2017 | TOT | NO
