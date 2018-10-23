@@ -42,3 +42,9 @@ Llenguatge | Paradigma | Proposit Motivació | Compilat... Interpretat | Abstrac
 **R** | MultiParadigma,funcional,vectorial,imperatiu,procedural,orientat a objectes | Analisis Estadistic | - | - | 1993 | 3,4,4 | - | - | NO
 **Razor** | Imperatiu/Estructurat | Crear pàgines web dinàmiques | - | - | 2010 | 3,2,3 | - | - | NO
 **Scala** | MultiParadigma | Expressar patrons de manera concisa | - | - | 2003 | 2,12,7 | - | - | NO
+**Scratch** | Imperatiu/Estructurat | Aprenentatge | - | - | 2002 | 2,456,0,4 | - | - | NO
+**SmallTalk** | Programació orientada a Objectes | - | - | - | 1972 | ANSI SmallTalk | - | - | NO
+**SQL** | MultiParadigma | - | - | - | 1974 | SQL 2014/2016 | - | - | NO
+**Swift** | Funcional,Estructurat/imperatiu,orientat a objectes | Desenvolupament per a IOS | - | - | 2014 | 4 |  | - | NO
+**TypeScript** | Funcional,Estructurat/imperatiu,orientat a objectes,script,generic | Treball | - | - | 2012 | 3,1,1 | - | - | NO
+**Visual Basic** | Programació orientada a Objectes | Treball | - | - | 1991 | 6 | - | - | https://msdn.microsoft.com/en-us/library/windows/desktop/ms788229.aspx
